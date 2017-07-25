@@ -13,9 +13,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ephraim Kigamba, Freek Van der Herten",
-            "email": "n.kigamba@students.ku.ac.ke, freek@spatie.be",
-            "homepage": "https://uzapos.com, https://spatie.be",
+            "name": "Freek Van der Herten",
+            "email": "freek@spatie.be",
+            "homepage": "https://spatie.be",
+            "role": "Developer"
+        },
+        {
+            "name": "Ephraim Kigamba",
+            "email": "kigamba@uzapos.com",
+            "homepage": "https://uzapos.com",
             "role": "Developer"
         }
     ],
