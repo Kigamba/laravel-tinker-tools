@@ -2,7 +2,6 @@
     "name": "kigamba/laravel-tinker-tools",
     "description": "Use short class names in an Artisan tinker session -> Supports php 5",
     "keywords": [
-        "spatie",
         "laravel-tinker-tools",
         "flysystem",
         "dropbox",
@@ -34,12 +33,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\TinkerTools\\": "src"
+            "Kigamba\\TinkerTools\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\TinkerTools\\Test\\": "tests"
+            "Kigamba\\TinkerTools\\Test\\": "tests"
         }
     },
     "scripts": {
