@@ -3,7 +3,7 @@
     "description": "Use short class names in an Artisan tinker session -> Supports php 5",
     "keywords": [
         "laravel-tinker-tools",
-        "api"
+        "flysystem"
     ],
     "homepage": "https://github.com/Kigamba/laravel-tinker-tools",
     "license": "MIT",
@@ -30,12 +30,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Kigamba\\TinkerTools\\": "src"
+            "Spatie\\TinkerTools\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Kigamba\\TinkerTools\\Test\\": "tests"
+            "Spatie\\TinkerTools\\Test\\": "tests"
         }
     },
     "scripts": {
