@@ -3,9 +3,6 @@
     "description": "Use short class names in an Artisan tinker session -> Supports php 5",
     "keywords": [
         "laravel-tinker-tools",
-        "flysystem",
-        "dropbox",
-        "v2",
         "api"
     ],
     "homepage": "https://github.com/Kigamba/laravel-tinker-tools",
