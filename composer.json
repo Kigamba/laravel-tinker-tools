@@ -1,5 +1,5 @@
 {
-    "name": "Kigamba/laravel-tinker-tools",
+    "name": "kigamba/laravel-tinker-tools",
     "description": "Use short class names in an Artisan tinker session -> Supports php 5",
     "keywords": [
         "spatie",
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
+            "name": "Ephraim Kigamba [Original Author: Freek Van der Herten]",
+            "email": "n.kigamba@students.ku.ac.ke [Original: freek@spatie.be]",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
