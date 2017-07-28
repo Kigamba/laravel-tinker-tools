@@ -8,6 +8,11 @@
 
 When using Artisan's Tinker command it can be quite bothersome having to type the fully qualified classname to do something simple.
 
+This Package requires >= PHP 5.0 . The parent package only support PHP 7.0
+
+Feel free to hit me up in case you have a problem using it
+
+
 ```php
 \App\Models\NewsItem::first();
 ```
@@ -23,7 +28,7 @@ NewsItem::first();
 First install the package via Composer:
 
 ``` bash
-composer require spatie/laravel-tinker-tools
+composer require "kigamba/laravel-tinker-tools dev-master"
 ```
 
 Next, create a file named `.psysh.php` in the root of your Laravel app with this content:
@@ -103,6 +108,7 @@ If you discover any security related issues, please email freek@spatie.be instea
 ## Credits
 
 - [Freek Van der Herten](https://github.com/freekmurze)
+- [Ephraim Kigamba](https://github.com/Kigamba)
 - [All Contributors](../../contributors)
 
 We got the idea for `ShortClassnames` by reading the "Tailoring Tinker with custom config"`section of [Caleb Porzio](https://twitter.com/calebporzio)'s excellent blogpost "[Supercharge Your Laravel Tinker Workflow](https://blog.tighten.co/supercharge-your-laravel-tinker-workflow)".
