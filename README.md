@@ -28,7 +28,7 @@ NewsItem::first();
 First install the package via Composer:
 
 ``` bash
-composer require "kigamba/laravel-tinker-tools dev-master"
+composer require kigamba/laravel-tinker-tools
 ```
 
 Next, create a file named `.psysh.php` in the root of your Laravel app with this content:
